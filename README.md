@@ -108,6 +108,10 @@ private func startFlashingColor(label: UILabel) {
 
 
 
+https://github.com/user-attachments/assets/93d9079a-f2ce-4597-b106-53f2576920fc
+
+
+
 
 
 
